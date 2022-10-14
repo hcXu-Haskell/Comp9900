@@ -1,0 +1,4 @@
+.carSpaceList::-webkit-scrollbar {
+  display: none;
+}
+
