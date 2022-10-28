@@ -119,8 +119,8 @@ def email_sender(title, name, content, email):
 
     host = 'smtp.gmail.com'
     port = 587
-    username = 'freeelements20@gmail.com'
-    password = 'uvzxmrbuoypuaaly'
+    username = 'yourownemail@pls.com'
+    password = 'yourownpassword'
 
     message = MIMEMultipart()
 
