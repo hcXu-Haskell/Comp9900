@@ -124,7 +124,7 @@ def email_sender(title, name, content, email):
 
     message = MIMEMultipart()
 
-    sender = 'freeelements20@gmail.com'
+    sender = 'yourownemail@pls.com'
     message['From'] = sender
     message['To'] = email
     message['Subject'] = Header(title, 'utf-8')
